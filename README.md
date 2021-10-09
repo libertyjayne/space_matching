@@ -3,7 +3,7 @@
 ## build
 
 docker-compose build
-or ?
+or
 docker build .
 
 ## test
